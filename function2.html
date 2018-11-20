@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ 
+</head>
+<body>
+
+        <script>
+ 
+                function receipt(bill, tax, tip){
+                
+                if (tax == 'california') {  
+
+                
+                return (bill + (bill * 0.1) + (bill* tip/100));
+               
+               
+                } else if (tax == 'seattle') { 
+                
+                
+                return (bill + (bill * tip/100));         
+                
+                } else { 
+
+                return (bill + (bill * 0.8) + (bill* tip/100));
+
+                }
+
+                }
+
+                
+                console.log(receipt(85, 'california' , 14));
+
+            
+
+               
+                </script>
+</body>
+
+</html>
