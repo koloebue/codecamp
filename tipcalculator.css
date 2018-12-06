@@ -1,0 +1,20 @@
+body {
+    background-color: blueviolet;
+}
+
+#bill {
+    text-align: left;
+
+}
+
+#tipcalculator {
+    text-align : center;
+}
+
+select {
+    margin-left: 10px;
+}
+
+button {
+    margin-left: 10px;
+}
