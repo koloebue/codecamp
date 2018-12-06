@@ -1,0 +1,40 @@
+body {
+    background-color: #8B0000;
+}
+
+#bill {
+    text-align: left;
+
+}
+
+#tipcalculator {
+    text-align : center;
+}
+
+select {
+    margin-left: 10px;
+}
+
+button {
+    margin-left: 10px;
+    background-color: red;
+}
+
+#box {
+	background-color: white;
+	text-align: center;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 30px;
+}
+
+#people {
+	margin-left: 60px;
+
+}
+
+#tipcalculator {
+
+	background-color: purple;
+	color: white;
+}
