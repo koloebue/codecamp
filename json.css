@@ -1,0 +1,35 @@
+ 
+ #daily {
+ 	height: 50px;
+ 	background-color: blue;
+ 	text-align: center;
+ 	padding: 10px;
+ 	color : white;
+ 	margin-left: 200px;
+ 	margin-right: 150px;
+}
+
+ #search {
+ 	height: 40px;
+ 	width: 620px;
+ 	margin-left: 200px;
+ 	m
+
+
+
+}
+
+li {
+    
+    background: #40bf9f;
+	border: 1px solid grey;
+	font-weight: 700;
+	font-size: 20px;
+	padding: 15px 28px 35px 100px;
+	color: white;
+	text-transform: capitalize;
+	font-family: verdana;
+	margin-top: -17px;
+	margin-left: 160px;
+	margin-right: 150px;
+}
